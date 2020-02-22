@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+    background: url("image/img.jpg") no-repeat center center fixed;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.agenda {
+    color:white;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.myForm {
+    
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+table {
+    background-color:#eeebdac5;
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th {
+    height: 30px;
+}
